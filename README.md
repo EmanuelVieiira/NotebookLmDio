@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de explorar o NotebookLM como ferramenta de aprendizagem ativa.
 
-O tema escolhido foi o estudo da língua inglesa, utilizando o NotebookLM para organizar conteúdos, esclarecer dúvidas e criar um material de revisão O foco foi compreender melhor a estrutura da língua inglesa, reforçar conceitos importantes e desenvolver estratégias para evoluir nos pontos em que tenho mais dificuldade.
+O tema escolhido foi o estudo da língua inglesa, utilizando o NotebookLM para organizar conteúdos, esclarecer dúvidas e criar um material de revisão. O foco foi compreender melhor a estrutura da língua inglesa, reforçar conceitos importantes e desenvolver estratégias para evoluir nos pontos em que tenho mais dificuldade.
 
 ---
 
